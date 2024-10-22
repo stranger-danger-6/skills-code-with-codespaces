@@ -17,6 +17,7 @@
       "codespaces": {
           "openFiles": [
               "codespace.md"
+              , "index.html"
           ]
       }
   },
